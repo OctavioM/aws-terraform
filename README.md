@@ -24,10 +24,9 @@ This repository contains Terraform configuration files for deploying infrastruct
 
 ## Usage
 
-1. **Format and Preview the changes:**
+1. **Preview the changes:**
 
     ```bash
-    terraform fmt
     terraform plan
     ```
 
