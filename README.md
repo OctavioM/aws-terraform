@@ -35,5 +35,3 @@ This repository contains Terraform configuration files for deploying infrastruct
     ```bash
     terraform apply
     ```
-
-    Type `yes` when prompted to confirm.
