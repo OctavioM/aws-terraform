@@ -1,0 +1,15 @@
+# Terraform local state
+.terraform/
+terraform.tfstate
+terraform.tfstate.backup
+
+# Terraform plan/output files
+*.tfplan
+*.tfvars
+*.tfvars.json
+
+# Crash logs
+crash.log
+
+# Ignore Terraform provider plugins
+.terraform.lock.hcl
