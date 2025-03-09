@@ -1,6 +1,6 @@
 # Terraform on AWS
 
-This repository contains Terraform configuration files for deploying infrastructure on AWS.
+This repository contains Terraform configuration files for deploying infrastructure on Amazon Web Services.
 
 ## Prerequisites
 
